@@ -29,7 +29,7 @@
 #define delaiSecondeReleveTemp 120
 #define nbMesureTemp 10
 
-#define numeroAutorise "+33663450044"  //numero autorisé à envoyer et recevoir
+#define numeroAutorise "+99999999999"  //numero autorisé à envoyer et recevoir
 
 
 // variables thermostat
