@@ -1,0 +1,7 @@
+Librairies utilisées
+https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads
+
+
+http://code.google.com/p/gsm-shield-arduino/issues/
+http://docplayer.net/5590137-Sim900-at-commands-manual_v1-11.html
+
